@@ -1,0 +1,5 @@
+
+CREADOR DE GITHUD:La comunidad de Linux
+Debido a la caida del desarrollo de bitkeeper dejo de ser ofrecida de manera gratuita, 
+donde ello impulso a desarrollar Git que cumple con los objetivos de ser:
+facil de usar,facil de conservar,etc.

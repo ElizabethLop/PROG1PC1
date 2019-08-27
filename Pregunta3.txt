@@ -1,0 +1,2 @@
+Multiplexación
+Es encargada de enviar peticiones y respuestas variadas.
